@@ -1,2 +1,2 @@
 # WebShop
-Here listed projects created from angular cli (self-testing)
+A project created from angular and all the required services are in this project
